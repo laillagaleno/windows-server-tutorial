@@ -1,4 +1,4 @@
-# Bem-vindo ao Repositório do Projeto de Implementação de Servidor Windows
+# Bem-vindo ao Repositório do Projeto de Implementação do Windows Server 2016
 
 Este repositório é dedicado à documentação completa da implementação de um servidor Windows, conforme orientado pelo professor [Paulo Henrique Barbosa](https://github.com/agenteph), na disciplina de Redes de Computadores II, do curso de Ciência da Computação no Instituto Federal de Educação, Ciência e Tecnologia do Maranhão - Campus Imperatriz (IFMA).
 
